@@ -9,5 +9,8 @@ Tercer cambio para rebase, desde bugFix -> master
 
 Cambio para cherry-pick
 
-rebase -i 1
+rebase inte 1
 rebase inte 2
+rebase inte 3
+rebase inte 4
+
