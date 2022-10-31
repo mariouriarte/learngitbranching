@@ -6,5 +6,3 @@ Segundo cambio en bugFix
 
 Cambio en master para rebase
 Tercer cambio para rebase, desde bugFix -> master
-
-Cambio para ser revertido
