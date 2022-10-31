@@ -8,3 +8,5 @@ Cambio en master para rebase
 Tercer cambio para rebase, desde bugFix -> master
 
 Cambio para cherry-pick
+
+rebase -i 1
